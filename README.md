@@ -1,0 +1,1 @@
+Building real-time applications is hard. However, GraphQL is rapidly upending this status-quo. Let’s explore what GraphQL is, and then take it for a spin by building a poll app.
